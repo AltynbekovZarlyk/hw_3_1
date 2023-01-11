@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_width">370dp</dimen>
+    <dimen name="layout_height">60dp</dimen>
+    <dimen name="layout_margin_top">150dp</dimen>
+    <dimen name="radius">15dp</dimen>
+    <dimen name="width">2dp</dimen>
+    <dimen name="padding">15dp</dimen>
+    <dimen name="margin">10dp</dimen>
+    <dimen name="text_size">25sp</dimen>
+</resources>
